@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Un regalo para vos</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f7f0e8;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #444;
+    }
+    p {
+      max-width: 600px;
+      margin: auto;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Este es un regalo sincero</h1>
+  <p>Esta página es solo un pequeño detalle para decir gracias, y para dejar una parte bonita de lo que vivimos. Te lo merecés.</p>
+</body>
+</html>
